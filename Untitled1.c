@@ -11,6 +11,7 @@ void insert(int a[N], int n)
 		scanf("%d",&a[i]);
     }
 }
+
 void disp(int a[N], int n)
 {
 	int i;
