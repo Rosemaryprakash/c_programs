@@ -5,7 +5,6 @@ struct date
 	int mm;
 	int yyyy;
 }d1,d2;
-
 int read()
 {
 	printf("Enter the first day month and year : ");
